@@ -1,0 +1,10 @@
+File 'STKD-42-Sul.Label-Analysis.csv'
+Voxel Size = 51.8154 μm
+Total measured Volume3d = 46353500000000.00 μm³
+The number of grains = 11081
+Total Volume of grains = 837587015788.00 μm³
+Minimum ESD = 64.29 μm
+Maximum ESD = 5591.11 μm
+Minimum Volume (%) = 139116.00 μm³ (0.00%)
+Maximum Volume (%) = 91500000000.00 μm³ (10.92%)
+Volume modal = 0.02（%)
