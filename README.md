@@ -91,4 +91,4 @@ If you have any questions or suggestions, please contact us:
 - **GitHub Repository**: [https://github.com/JiangzeWang/CTDataToolBox](https://github.com/JiangzeWang/CTDataToolBox)
 - **GitHub Issues**: [https://github.com/JiangzeWang/CTDataToolBox/issues](https://github.com/JiangzeWang/CTDataToolBox/issues)  
 
-**Tip**: We recommend running the sample data first to get familiar with the workflow!
+**Tip**: We recommend running the **example** data first to get familiar with the workflow!
