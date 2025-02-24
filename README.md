@@ -1,6 +1,6 @@
 # CTDataToolbox
 
-**CTDataToolbox** is an advanced software designed for processing and analyzing high-resolution X-ray computed tomography (HRXCT) data. The software is particularly useful for researchers and professionals working in fields such as mineral analysis, material science, and geology. It allows users to perform a wide variety of data processing tasks, including crystal size distribution (CSD) analysis, frequency analysis, morphology and shape analysis, sphericity calculations, skeletonization, and pore network modeling. The tool also includes powerful visualization and data export functionalities to support efficient analysis.
+[**CTDataToolbox**](https://github.com/JiangzeWang/CTDataToolBox) is an advanced software designed for processing and analyzing high-resolution X-ray computed tomography (HRXCT) data. The software is particularly useful for researchers and professionals working in fields such as mineral analysis, material science, and geology. It allows users to perform a wide variety of data processing tasks, including crystal size distribution (CSD) analysis, frequency analysis, morphology and shape analysis, sphericity calculations, skeletonization, and pore network modeling. The tool also includes powerful visualization and data export functionalities to support efficient analysis.
 
 ## Key Features:
   - Crystal Size Distribution: Analyze particle size, volume distribution, and morphology.
@@ -82,3 +82,13 @@ This project is licensed under the **MIT License**.
 *Copyright © [2025] [Jiangze Wang].*
 
 Full text available at [LICENSE](./LICENSE)。
+
+## Contact Us
+
+If you have any questions or suggestions, please contact us:
+
+- **Email**: wangjiangze@gig.ac.cn
+- **GitHub Repository**: [https://github.com/JiangzeWang/CTDataToolBox](https://github.com/JiangzeWang/CTDataToolBox)
+- **GitHub Issues**: [https://github.com/JiangzeWang/CTDataToolBox/issues](https://github.com/JiangzeWang/CTDataToolBox/issues)  
+
+**Tip**: We recommend running the sample data first to get familiar with the workflow!
